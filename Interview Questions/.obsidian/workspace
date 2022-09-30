@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "84acb647acaf8c07",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c119c99123f1eaf",
+        "type": "leaf",
+        "dimension": 54.122448979591844,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "〈 CSS 〉/Что такое селектор. Какие селекторы существуют..md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "560827223c5ca24f",
+        "type": "leaf",
+        "dimension": 45.87755102040816,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eba4195fd1c3c7f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae749f1fe5a3a99c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "757cdb5bb25f5906",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "421022f810ce9849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Technology",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c3739e5ceba4a62",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370
+  },
+  "right": {
+    "id": "8d7a621d901af4db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4adcefb36955d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ca5341d520e3215",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "949a8f5e06f61b59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "active": "560827223c5ca24f",
+  "lastOpenFiles": [
+    "〈 CSS 〉/Что такое селектор. Какие селекторы существуют..md",
+    "〈 CSS 〉/Что такое псевдоэлементы. И для чего они используются..md",
+    "〈 CSS 〉/Что такое вендорные префиксы. И для чего они используются..md",
+    "〈 CSS 〉/Что такое блочная модель CSS.md",
+    "〈 CSS 〉/Разница между Reset и Normalize.md",
+    "〈 CSS 〉/Разница между margin и padding.md",
+    "〈 CSS 〉/Разница между display none и visibility hidden.md",
+    "〈 CSS 〉/Разница между классом и идентификатором в CSS.md",
+    "〈 CSS 〉/Разница между блочным и строчным (инлайновым) элементами.md",
+    "〈 CSS 〉/Порядок наложения элементов в CSS (Stacking Order).md"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Howl’s Moving Castle",
+      "path": "🟦 Сulture/Book/Howl’s Moving Castle.md"
+    },
+    {
+      "type": "file",
+      "title": "New words of the day",
+      "path": "⬛️ Learning Languages/English/Dictionary/New words of the day.md"
+    },
+    {
+      "type": "file",
+      "title": "0 Music",
+      "path": "🟦 Сulture/Music/0 Music.md"
+    },
+    {
+      "type": "file",
+      "title": "0 2022 year",
+      "path": "⬜ Personal Management/Journal/Daily/0 2022 year.md"
+    },
+    {
+      "type": "file",
+      "title": "JS итоги",
+      "path": "🟧 Technologies/Information Technology/Programming Language/JavaScript/JS итоги.md"
+    },
+    {
+      "type": "file",
+      "title": "description catalog 'New projects'",
+      "path": "🟧 Technologies/Information Technology/IT projects/description catalog 'New projects'.md"
+    },
+    {
+      "type": "file",
+      "title": "О развитии файловых меджеджеров",
+      "path": "⬜ Personal Management/Creation/Articles/О развитии файловых меджеджеров.md"
+    },
+    {
+      "type": "file",
+      "title": "Interesting miniatures",
+      "path": "⬜ Personal Management/Journal/Shopping list/Хлам.md"
+    },
+    {
+      "type": "file",
+      "title": "0 lessons for Andrey",
+      "path": "⬜ Personal Management/Journal/Meetings/lessons for Andrey/0 lessons for Andrey.md"
+    },
+    {
+      "type": "file",
+      "title": "Лекция по политологии",
+      "path": "🟨 Social Sciencies/Лекция по политологии.md"
+    },
+    {
+      "type": "file",
+      "title": "О цветовых темах в Обсидан",
+      "path": "🟧 Technologies/Technology products/О цветовых темах в Обсидан.md"
+    },
+    {
+      "type": "file",
+      "title": "Project Tracker",
+      "path": "⬜ Personal Management/Project Tracker.md"
+    },
+    {
+      "type": "file",
+      "title": "TimeStamp",
+      "path": "⬜ Personal Management/TimeStamp.md"
+    },
+    {
+      "type": "file",
+      "title": "Extraordinary Circumstances",
+      "path": "⬜ Personal Management/Extraordinary Circumstances.md"
+    },
+    {
+      "type": "file",
+      "title": "Планерка",
+      "path": "⬜ Personal Management/Планерка.md"
+    }
+  ]
+}
