@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "Technology/HTML",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "",
+      "query": "Technology/React",
       "color": {
         "a": 1,
         "rgb": 15174152
@@ -81,6 +81,6 @@
   "repelStrength": 4.29263185446931,
   "linkStrength": 0.253718605218239,
   "linkDistance": 146,
-  "scale": 0.08317427835927703,
+  "scale": 0.11660891579457573,
   "close": false
 }

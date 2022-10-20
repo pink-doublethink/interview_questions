@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eed9523edc491c40",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "〈 React 〉/Что Такое JSX.md",
-            "mode": "source",
-            "source": false
+        "id": "9a756b09e32223f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed9523edc491c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Оглавление.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Technology",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "〈 React 〉/Что Такое JSX.md",
+                "file": "Оглавление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,20 +112,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "eed9523edc491c40",
   "lastOpenFiles": [
+    "〈 HTML 〉/В каких ситуациях лучше использовать canvac, а в каких SVG.md",
+    "Оглавление.md",
+    "Идеи для вопросов.md",
+    "〈 React 〉/Что Такое JSX.md",
     "〈 React 〉/Что такое контекст (Context).md",
     "〈 React 〉/Что такое портал (Portal).md",
     "〈 React 〉/Объяснити разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами.md",
     "〈 React 〉/Что такое Компонент высшего порядка (Higher-Order Component).md",
     "〈 React 〉/Что такое PureComponent.md",
-    "〈 React 〉/0 React Оглавление.md",
-    "Оглавление.md",
-    "Идеи для вопросов.md",
-    "〈 React 〉/Для чего нужен атрибут key при рендере списков.md",
-    "〈 React 〉/Методы жизненного цикла компонента в React.md"
+    "〈 React 〉/0 React Оглавление.md"
   ]
 }
