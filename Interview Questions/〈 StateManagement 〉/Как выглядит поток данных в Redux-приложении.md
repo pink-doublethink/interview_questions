@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/StateManagement
+- Difficulty/Base
+---
 ----
 ## Как выглядит поток данных в Redux-приложении?
 ----

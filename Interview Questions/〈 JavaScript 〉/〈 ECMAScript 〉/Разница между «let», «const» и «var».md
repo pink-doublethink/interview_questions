@@ -1,3 +1,8 @@
+---
+tags:
+- JS/ECMAScript 
+- Difficulty
+---
 ----
 ## Разница между «let», «const» и «var»
 ----

@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/StateManagement
+- Difficulty/Base
+---
 ----
 ## Что такое Redux? Ключевые принципы Redux?
 ----

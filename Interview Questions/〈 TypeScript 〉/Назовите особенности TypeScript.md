@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/TypeScript
+- Difficulty/Base
+---
 ----
 ## Назовите особенности TypeScript?
 ----

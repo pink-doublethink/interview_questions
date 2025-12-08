@@ -1,3 +1,8 @@
+---
+tags:
+- JS/CommonJS 
+- Difficulty
+---
 ----
 ## Что такое прототип объекта в JavaScript
 ----

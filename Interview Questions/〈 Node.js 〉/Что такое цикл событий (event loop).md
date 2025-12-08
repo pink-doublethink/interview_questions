@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/Node.js 
+- Difficulty/Base
+---
 ----
 ## Что такое цикл событий (event loop)?
 ----

@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/WebTechnologies
+- Difficulty/Base
+---
 ----
 ## Какие методы может иметь HTTP-запрос
 ----

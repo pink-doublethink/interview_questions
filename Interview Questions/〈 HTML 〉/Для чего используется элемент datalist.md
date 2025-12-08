@@ -1,5 +1,7 @@
 ---
-tag: [Technology/HTML Difficulty/upperIntermediate]
+tags:
+- Technology/HTML D
+- ifficulty/upperIntermediate
 ---
 ----
 ## Для чего используется элемент datalist

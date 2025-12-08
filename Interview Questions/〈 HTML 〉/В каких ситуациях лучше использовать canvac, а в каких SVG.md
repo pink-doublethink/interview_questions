@@ -1,5 +1,7 @@
 ---
-tag: [Technology/HTML Difficulty/Intermediate]
+tags:
+- Technology/HTML 
+- Difficulty/Intermediate
 ---
 ----
 ## В каких ситуациях лучше использовать canvac, а в каких SVG

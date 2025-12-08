@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/StateManagement
+- Difficulty/Base
+---
 ----
 ## Разница между React State и Redux State?
 ----

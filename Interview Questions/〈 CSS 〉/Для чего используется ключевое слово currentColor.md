@@ -1,5 +1,7 @@
 ---
-tag: [Technology/CSS Difficulty/Base]
+tags:
+- Technology/CSS 
+- Difficulty/Base
 ---
 ----
 ## Для чего используется ключевое слово currentColor

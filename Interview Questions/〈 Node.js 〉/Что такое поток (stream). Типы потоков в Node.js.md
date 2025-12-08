@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/Node.js 
+- Difficulty/Base
+---
 ----
 ## Что такое поток (stream)? Типы потоков в Node.js?
 ----

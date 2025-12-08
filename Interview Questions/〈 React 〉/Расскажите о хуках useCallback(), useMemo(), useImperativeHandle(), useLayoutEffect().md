@@ -1,5 +1,7 @@
 ---
-tag: [Technology/React Difficulty/Base]
+tags:
+- Technology/React 
+- Difficulty/Base
 ---
 ----
 ## Расскажите о хуках useCallback(), useMemo(), useImperativeHandle(), useLayoutEffect()

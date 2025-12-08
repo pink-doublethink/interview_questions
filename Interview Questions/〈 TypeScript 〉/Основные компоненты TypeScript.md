@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/TypeScript
+- Difficulty/Base
+---
 ----
 ## Основные компоненты TypeScript?
 ----

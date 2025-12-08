@@ -1,5 +1,7 @@
 ---
-tag: [Technology/HTML Difficulty/Advanced]
+tags:
+- Technology/HTML 
+- Difficulty/Advanced
 ---
 ----
 ## Для чего используют атрибут inputmode

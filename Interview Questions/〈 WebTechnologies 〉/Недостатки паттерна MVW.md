@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/WebTechnologies
+- Difficulty/Base
+---
 ----
 ## Недостатки паттерна MVW
 ----

@@ -1,11 +1,13 @@
 ---
-tag: [Technology/React Difficulty/Base]
+tags:
+- Technology/React 
+- Difficulty/Base
 ---
 ----
 ## Что такое инверсия наследования (Inheritance Inversion)
 ----
 > [!FAQ]- Ответ
-> - Inheritance Inversion - это компонент высшего порядка. В нем возращается класс, расширяющий WrappedCompo net.
+> - Inheritance Inversion - это компонент высшего порядка. В нем возращается класс, расширяющий WrappedComponet.
 > ```javascript
 > const inheritanceInversionHOC = (WrappedComponet) => {
 > 	return class extedsWrappedComponet {

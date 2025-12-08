@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/StateManagement
+- Difficulty/Base
+---
 ----
 ## Плюсы и минусы Redux?
 ----

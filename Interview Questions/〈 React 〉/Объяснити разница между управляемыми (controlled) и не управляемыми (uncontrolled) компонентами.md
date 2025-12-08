@@ -1,5 +1,7 @@
 ---
-tag: [Technology/React Difficulty/Base]
+tags:
+- Technology/React 
+- Difficulty/Base
 ---
 ----
 ## Объяснити разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами?

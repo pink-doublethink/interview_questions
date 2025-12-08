@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/WebTechnologies
+- Difficulty/Base
+---
 ----
 ## Разница между Progressive Enhancement и Graceful Degradation
 ----

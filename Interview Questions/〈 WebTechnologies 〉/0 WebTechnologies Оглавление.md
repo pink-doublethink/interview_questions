@@ -1,3 +1,7 @@
+---
+aliases:
+- 〈 WebTechnologies 〉
+---
 ----
 ## WebTechnologies: Оглавление
 ---

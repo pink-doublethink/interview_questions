@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/StateManagement
+- Difficulty/Base
+---
 ----
 ## Разница между Redux и Flux?
 ----

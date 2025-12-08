@@ -1,5 +1,7 @@
 ---
-tag: [Technology/HTML Difficulty/Base]
+tags:
+- Technology/HTML 
+- Difficulty/Base
 ---
 ----
 ## Разница между script, script async и script defer

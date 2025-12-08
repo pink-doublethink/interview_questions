@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/Vue.js
+- Difficulty/Base
+---
 ----
 ## Что такое миксины во Vue.js?
 ----

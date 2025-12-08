@@ -1,5 +1,7 @@
 ---
-tag: [Technology/React Difficulty/Base]
+tags:
+- Technology/React 
+- Difficulty/Base
 ---
 ----
 ## Чем React Router отличается от обычной маршрутизации

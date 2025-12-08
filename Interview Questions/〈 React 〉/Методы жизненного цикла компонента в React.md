@@ -1,5 +1,7 @@
 ---
-tag: [Technology/React Difficulty/Base]
+tags:
+- Technology/React 
+- Difficulty/Base
 ---
 ----
 ## Методы жизненного цикла компонента в React

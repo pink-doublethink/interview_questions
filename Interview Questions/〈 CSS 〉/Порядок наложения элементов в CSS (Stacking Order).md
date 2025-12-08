@@ -1,5 +1,7 @@
 ---
-tag: [Technology/CSS Difficulty/Base]
+tags:
+- Technology/CSS
+- Difficulty/Base
 ---
 ----
 ## Порядок наложения элементов в CSS (Stacking Order)?

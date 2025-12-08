@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/WebTechnologies
+- Difficulty/Base
+---
 ----
 ## Что такое Flash Of Unstyled Content. Как его избежать
 ----

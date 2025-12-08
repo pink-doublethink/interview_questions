@@ -1,5 +1,7 @@
 ---
-tag: [Technology/CSS Difficulty/Base]
+tags:
+- Technology/CSS 
+- Difficulty/Base
 ---
 ----
 ## Что такое z-index? Как формируется контекст наложения?

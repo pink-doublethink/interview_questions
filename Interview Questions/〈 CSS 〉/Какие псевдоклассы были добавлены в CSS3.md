@@ -1,5 +1,7 @@
 ---
-tag: [Technology/CSS Difficulty/Base]
+tags:
+- Technology/CSS 
+- Difficulty/Base
 ---
 ----
 ## Какие псевдоклассы были добавлены в CSS3

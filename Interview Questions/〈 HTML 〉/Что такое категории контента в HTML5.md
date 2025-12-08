@@ -1,5 +1,7 @@
 ---
-tag: [Technology/HTML Difficulty/Base]
+tags:
+- Technology/HTML 
+- Difficulty/Base
 ---
 ----
 ## Что такое категории контента в HTML5

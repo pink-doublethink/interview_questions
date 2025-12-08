@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/Node.js 
+- Difficulty/Base
+---
 ----
 ## Что такое циклические зависимости модулей в Node?
 ----

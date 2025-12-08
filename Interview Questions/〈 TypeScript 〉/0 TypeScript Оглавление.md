@@ -1,3 +1,7 @@
+---
+aliases:
+- 〈 TypeScript 〉
+---
 ----
 ## TypeScript: Оглавление
 ---

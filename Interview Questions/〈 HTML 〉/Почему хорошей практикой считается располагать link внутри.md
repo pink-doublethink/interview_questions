@@ -1,5 +1,7 @@
 ---
-tag: [Technology/HTML Difficulty/Base]
+tags:
+- Technology/HTML 
+- Difficulty/Base
 ---
 ----
 ## Почему хорошей практикой считается располагать link для подключения CSS стилей внутри тэга head, а script для подключения JS ставить перед закрывающимся тэгом body

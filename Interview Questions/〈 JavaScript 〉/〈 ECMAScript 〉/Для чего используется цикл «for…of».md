@@ -1,3 +1,8 @@
+---
+tags:
+- JS/ECMAScript 
+- Difficulty
+---
 ----
 ## Для чего используется цикл «for…of»
 ----

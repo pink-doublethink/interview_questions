@@ -1,3 +1,8 @@
+---
+tags:
+- JS/CommonJS 
+- Difficulty
+---
 ----
 ## Что такое замыкание (Closure)
 ----

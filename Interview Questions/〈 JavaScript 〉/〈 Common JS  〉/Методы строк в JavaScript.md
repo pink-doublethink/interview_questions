@@ -1,3 +1,8 @@
+---
+tags:
+- JS/CommonJS 
+- Difficulty
+---
 ----
 ## Методы строк в JavaScript
 ----

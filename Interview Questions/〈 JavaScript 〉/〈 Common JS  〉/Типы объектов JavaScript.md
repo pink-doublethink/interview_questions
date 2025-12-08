@@ -1,3 +1,8 @@
+---
+tags:
+- JS/CommonJS 
+- Difficulty
+---
 ----
 ## Типы объектов JavaScript
 ----

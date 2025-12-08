@@ -1,3 +1,8 @@
+---
+tags:
+- Technology/TypeScript
+- Difficulty/Base
+---
 ----
 ## Что такое TypeScript?
 ----

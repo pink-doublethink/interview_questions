@@ -1,5 +1,7 @@
 ---
-tag: [Technology Difficulty]
+tags:
+- Technology/WebTechnologies
+- Difficulty/Base
 ---
 ----
 ## Что такое SOLID

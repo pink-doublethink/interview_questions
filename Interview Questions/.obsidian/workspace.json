@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Оглавление.md",
+                "file": "〈 Node.js 〉/Как избежать Callback Hell.md",
                 "mode": "source",
-                "source": false
-              }
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Как избежать Callback Hell"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,19 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "326195bb1bb6e0cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Оглавление.md",
+                "file": "〈 Node.js 〉/Как избежать Callback Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Как избежать Callback Hell"
             }
           },
           {
@@ -103,8 +124,26 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "546c4cc0ff843ed4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -114,20 +153,45 @@
     "direction": "horizontal",
     "width": 265.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false
+    }
   },
   "active": "eed9523edc491c40",
   "lastOpenFiles": [
-    "〈 HTML 〉/В каких ситуациях лучше использовать canvac, а в каких SVG.md",
-    "Оглавление.md",
-    "Идеи для вопросов.md",
-    "〈 React 〉/Что Такое JSX.md",
-    "〈 React 〉/Что такое контекст (Context).md",
-    "〈 React 〉/Что такое портал (Portal).md",
-    "〈 React 〉/Объяснити разница между управляемыми (controlled) и не управляемыми (uncontrolled) компонентами.md",
-    "〈 React 〉/Что такое Компонент высшего порядка (Higher-Order Component).md",
-    "〈 React 〉/Что такое PureComponent.md",
-    "〈 React 〉/0 React Оглавление.md"
+    "〈 Node.js 〉/Перечислите плюсы Node.js.md",
+    "〈 Node.js 〉/Почему в модулях переменные верхнего уровня не являются глобальными.md",
+    "〈 Node.js 〉/Почему использование блокирующих, или синхронных операций является плохой практикой в Node.js.md",
+    "〈 Node.js 〉/Преимущества однопоточного веб-сервера по сравнению с многопоточным.md",
+    "〈 Node.js 〉/Разница между асинхронной и неблокирующей функциями.md",
+    "〈 Node.js 〉/Разница между createReadStream и readFile.md",
+    "〈 Node.js 〉/Что такое модуль Cluster.md",
+    "〈 Node.js 〉/Что такое поток (stream). Типы потоков в Node.js.md",
+    "〈 Node.js 〉/Что такое цикл событий (event loop).md",
+    "〈 Node.js 〉/Что такое циклические зависимости модулей в Node.md",
+    "〈 Node.js 〉/Что такое REPL в Node.js.md",
+    "〈 React 〉/Для чего нужен атрибут key при рендере списков.md",
+    "〈 Node.js 〉/Как избежать Callback Hell.md",
+    "〈 React 〉/Назовите преимущества использования React.md",
+    "〈 React 〉/Как в React реализовать двустороннее связывание данных.md",
+    "〈 React 〉/Для чего предназначен метод registerServiceWorker() в React.md",
+    "〈 StateManagement 〉/Что такое редьюсер (Reducer).md",
+    "〈 StateManagement 〉/Что такое «единственный источник истины».md",
+    "〈 StateManagement 〉/Разница между React State и Redux State.md",
+    "〈 StateManagement 〉/Плюсы и минусы Redux.md",
+    "〈 TypeScript 〉/Что такое TypeScript.md",
+    "〈 TypeScript 〉/Основные компоненты TypeScript.md",
+    "〈 TypeScript 〉/Назовите особенности TypeScript.md",
+    "〈 Vue 〉/Что такое Vue CLI.md",
+    "〈 Vue 〉/Что такое пропсы. Типы пропсов..md",
+    "〈 Vue 〉/Что такое миксины во Vue.js.md",
+    "Templates",
+    "Files"
   ]
 }

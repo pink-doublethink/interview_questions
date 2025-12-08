@@ -1,3 +1,8 @@
+---
+tags:
+- JS/ECMAScript 
+- Difficulty
+---
 ----
 ## Плюсы и минусы использовании Ajax
 ----
