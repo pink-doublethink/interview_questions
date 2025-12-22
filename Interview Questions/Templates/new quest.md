@@ -1,0 +1,10 @@
+---
+tags:
+- Technology
+- Difficulty/Base
+---
+----
+## {{title}}
+----
+> [!FAQ]- Ответ
+> - а 

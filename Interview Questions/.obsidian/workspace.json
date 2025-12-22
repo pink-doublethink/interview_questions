@@ -13,12 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "〈 Node.js 〉/Как избежать Callback Hell.md",
+                "file": "〈 Business Analyst 〉/Что такое Use Case.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Как избежать Callback Hell"
+              "title": "Что такое Use Case"
+            }
+          },
+          {
+            "id": "ed4a2a61f46031f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "〈 Business Analyst 〉/0 BA Оглавление.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0 BA Оглавление"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c757b798d116616a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa92b777373ba190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "〈 Business Analyst 〉/0 BA Оглавление.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0 BA Оглавление"
             }
           }
         ]
@@ -53,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ifficulty",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "〈 Node.js 〉/Как избежать Callback Hell.md",
+                "file": "〈 HTML 〉/Для чего используется элемент datalist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Как избежать Callback Hell"
+              "title": "Backlinks for Для чего используется элемент datalist"
             }
           },
           {
@@ -124,7 +159,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -151,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,34 +199,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "eed9523edc491c40",
+  "active": "ed4a2a61f46031f3",
   "lastOpenFiles": [
-    "〈 Node.js 〉/Перечислите плюсы Node.js.md",
-    "〈 Node.js 〉/Почему в модулях переменные верхнего уровня не являются глобальными.md",
-    "〈 Node.js 〉/Почему использование блокирующих, или синхронных операций является плохой практикой в Node.js.md",
-    "〈 Node.js 〉/Преимущества однопоточного веб-сервера по сравнению с многопоточным.md",
-    "〈 Node.js 〉/Разница между асинхронной и неблокирующей функциями.md",
-    "〈 Node.js 〉/Разница между createReadStream и readFile.md",
-    "〈 Node.js 〉/Что такое модуль Cluster.md",
-    "〈 Node.js 〉/Что такое поток (stream). Типы потоков в Node.js.md",
-    "〈 Node.js 〉/Что такое цикл событий (event loop).md",
-    "〈 Node.js 〉/Что такое циклические зависимости модулей в Node.md",
-    "〈 Node.js 〉/Что такое REPL в Node.js.md",
-    "〈 React 〉/Для чего нужен атрибут key при рендере списков.md",
-    "〈 Node.js 〉/Как избежать Callback Hell.md",
-    "〈 React 〉/Назовите преимущества использования React.md",
-    "〈 React 〉/Как в React реализовать двустороннее связывание данных.md",
-    "〈 React 〉/Для чего предназначен метод registerServiceWorker() в React.md",
-    "〈 StateManagement 〉/Что такое редьюсер (Reducer).md",
-    "〈 StateManagement 〉/Что такое «единственный источник истины».md",
-    "〈 StateManagement 〉/Разница между React State и Redux State.md",
-    "〈 StateManagement 〉/Плюсы и минусы Redux.md",
-    "〈 TypeScript 〉/Что такое TypeScript.md",
-    "〈 TypeScript 〉/Основные компоненты TypeScript.md",
-    "〈 TypeScript 〉/Назовите особенности TypeScript.md",
-    "〈 Vue 〉/Что такое Vue CLI.md",
-    "〈 Vue 〉/Что такое пропсы. Типы пропсов..md",
+    "〈 Business Analyst 〉/Что это такое SOAP и где применяется.md",
+    "〈 Business Analyst 〉/Что такое User Story.md",
+    "〈 Business Analyst 〉/Что такое Use Case.md",
+    "〈 Business Analyst 〉/Что такое сервис-ориентированная архитектура.md",
+    "〈 Business Analyst 〉/Чем Use Case отличается от User Story.md",
+    "〈 Business Analyst 〉/Расскажите как вы видите процесс разработки.md",
+    "〈 Business Analyst 〉/Как происходит сбор требований с заказчика.md",
+    "〈 Business Analyst 〉/Какие виды состояний НТТР бывают.md",
+    "〈 Business Analyst 〉/Какие виды требований вы знаете.md",
+    "〈 Business Analyst 〉/Какие типы диаграмм использовали.md",
+    "〈 CSS 〉/Для чего используется ключевое слово currentColor.md",
+    "〈 CSS 〉/0 CSS Оглавление.md",
+    "〈 Business Analyst 〉/0 BA Оглавление.md",
+    "Business analytics.md",
+    "〈 Business Analyst 〉/Untitled",
+    "Templates/new quest.md",
+    "〈 Vue 〉/Разница между локальной и глобальной регистрацией компонента..md",
+    "〈 Vue 〉/0 Vue Оглавление.md",
+    "〈 JavaScript 〉/〈 JS Async 〉/Что такое промисы (Promises).md",
     "〈 Vue 〉/Что такое миксины во Vue.js.md",
+    "〈 Vue 〉/Что такое Vue CLI.md",
+    "〈 Vue 〉/Что такое компонент.md",
+    "Игра в имитацию.md",
+    "〈 HTML 〉/Для чего используется элемент datalist.md",
+    "〈 CSS 〉/Варианты добавления CSS стилий на страницу.md",
+    "9.md",
+    "〈 Business Analyst 〉",
+    "7.md",
     "Templates",
     "Files"
   ]
