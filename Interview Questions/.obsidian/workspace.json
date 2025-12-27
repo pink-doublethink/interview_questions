@@ -8,52 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eed9523edc491c40",
+            "id": "369d8c88e435de30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "〈 Business Analyst 〉/Что такое Use Case.md",
+                "file": "Templates/new quest.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Что такое Use Case"
-            }
-          },
-          {
-            "id": "ed4a2a61f46031f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/0 BA Оглавление.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "0 BA Оглавление"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c757b798d116616a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa92b777373ba190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/0 BA Оглавление.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "0 BA Оглавление"
+              "title": "new quest"
             }
           }
         ]
@@ -88,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ifficulty",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -199,36 +164,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed4a2a61f46031f3",
+  "active": "369d8c88e435de30",
   "lastOpenFiles": [
-    "〈 Business Analyst 〉/Что это такое SOAP и где применяется.md",
-    "〈 Business Analyst 〉/Что такое User Story.md",
-    "〈 Business Analyst 〉/Что такое Use Case.md",
-    "〈 Business Analyst 〉/Что такое сервис-ориентированная архитектура.md",
-    "〈 Business Analyst 〉/Чем Use Case отличается от User Story.md",
-    "〈 Business Analyst 〉/Расскажите как вы видите процесс разработки.md",
-    "〈 Business Analyst 〉/Как происходит сбор требований с заказчика.md",
-    "〈 Business Analyst 〉/Какие виды состояний НТТР бывают.md",
-    "〈 Business Analyst 〉/Какие виды требований вы знаете.md",
-    "〈 Business Analyst 〉/Какие типы диаграмм использовали.md",
-    "〈 CSS 〉/Для чего используется ключевое слово currentColor.md",
-    "〈 CSS 〉/0 CSS Оглавление.md",
-    "〈 Business Analyst 〉/0 BA Оглавление.md",
-    "Business analytics.md",
-    "〈 Business Analyst 〉/Untitled",
+    "Templates/new quest code.md",
     "Templates/new quest.md",
-    "〈 Vue 〉/Разница между локальной и глобальной регистрацией компонента..md",
-    "〈 Vue 〉/0 Vue Оглавление.md",
-    "〈 JavaScript 〉/〈 JS Async 〉/Что такое промисы (Promises).md",
-    "〈 Vue 〉/Что такое миксины во Vue.js.md",
-    "〈 Vue 〉/Что такое Vue CLI.md",
-    "〈 Vue 〉/Что такое компонент.md",
-    "Игра в имитацию.md",
-    "〈 HTML 〉/Для чего используется элемент datalist.md",
-    "〈 CSS 〉/Варианты добавления CSS стилий на страницу.md",
-    "9.md",
+    "System Design.md",
+    "Business analytics.md",
+    "Списки вопросов.md",
+    "〈 Corporate values 〉/0 CV Оглавление.md",
+    "〈 Corporate values 〉/How do you handle constant changes in priorities and the emergence of urgent tasks within a team.md",
+    "〈 Corporate values 〉/Do you prefer working independently or as part of a team.md",
+    "〈 Corporate values 〉/If we asked your colleagues to describe you, what would they say.md",
+    "〈 Corporate values 〉/How would you explain what you do for a living to your grandmother.md",
+    "〈 Corporate values 〉/How do you act in a workplace conflict situation.md",
+    "〈 Corporate values 〉/How do you feel about business travel.md",
+    "〈 Corporate values 〉/How do you feel about working overtime.md",
+    "〈 Corporate values 〉/How do you estimate task timelines.md",
+    "〈 Corporate values 〉/What is your current salary.md",
+    "〈 Corporate values 〉/What do you expect from your future manager.md",
+    "〈 Corporate values 〉/What achievement from your previous job are you most proud of.md",
+    "〈 Corporate values 〉/What would be your first steps in a new role.md",
+    "〈 Corporate values 〉/What do you expect your future team to be like.md",
+    "〈 Corporate values 〉/What salary are you looking for. What is the minimum you would consider.md",
+    "〈 Corporate values 〉/When would you be able to start.md",
+    "〈 Corporate values 〉/Name 3 of your strengths and 3 of your weaknesses.md",
+    "〈 Corporate values 〉/Describe your ideal workplace.md",
+    "〈 Corporate values 〉/Why are you looking for a new job.md",
+    "〈 Corporate values 〉/Why should we hire you.md",
+    "〈 Corporate values 〉/Tell us about the most challenging problems you have faced.md",
+    "〈 Corporate values 〉",
+    "〈 System Design 〉",
+    "〈 Business Analyst 〉/Untitled",
     "〈 Business Analyst 〉",
-    "7.md",
     "Templates",
     "Files"
   ]

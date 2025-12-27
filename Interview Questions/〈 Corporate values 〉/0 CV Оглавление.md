@@ -1,0 +1,49 @@
+----
+## BA: Оглавление
+---
+----
+### Base
+----
+- [[Describe your ideal workplace]]
+- [[Do you have a mortgage, loans, children]]
+- [[Do you have offers from other companies]]
+- [[Do you prefer working independently or as part of a team]]
+- [[How do you act in a workplace conflict situation]]
+- [[How do you estimate task timelines]]
+- [[How do you feel about business travel]]
+- [[How do you feel about working overtime]]
+- [[How do you handle constant changes in priorities and the emergence of urgent tasks within a team]]
+- [[How do you handle situations when management assigns you urgent tasks directly, bypassing your manager]]
+- [[How would you explain what you do for a living to your grandmother]]
+- [[If we asked your colleagues to describe you, what would they say]]
+- [[Name 3 of your strengths and 3 of your weaknesses]]
+- [[Tell us about a situation where you failed to meet a deadline]]
+- [[Tell us about the most challenging problems you have faced]]
+- [[Tell us about your most impressive project]]
+- [[Tell us about yourself]]
+- [[What achievement from your previous job are you most proud of]]
+- [[What are your interests. Do you have any hobbies]]
+- [[What do you expect from your future manager]]
+- [[What do you expect your future team to be like]]
+- [[What exactly were you responsible for]]
+- [[What have you been learning recently]]
+- [[What interested you in our vacancy]]
+- [[What is the most challenging part of your job for you]]
+- [[What is your current salary]]
+- [[What motivates you]]
+- [[What salary are you looking for. What is the minimum you would consider]]
+- [[What would be your first steps in a new role]]
+- [[When would you be able to start]]
+- [[Which agile methodologies are you familiar with]]
+- [[Why are you looking for a new job]]
+- [[Why should we hire you]]
+----
+### Intermediate
+---
+- Text
+- Text
+----
+### Advanced
+---
+- Text
+- Text 
