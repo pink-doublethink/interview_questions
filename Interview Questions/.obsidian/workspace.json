@@ -4,11 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "9a756b09e32223f4",
+        "id": "8d978a30f70bd609",
         "type": "tabs",
+        "dimension": 75.07987220447284,
         "children": [
           {
-            "id": "0e0987bee75912db",
+            "id": "2c09558534c72f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "〈 Business Analyst 〉/0 BA Оглавление.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0 BA Оглавление"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb5fba17bea9b76a",
+        "type": "tabs",
+        "dimension": 24.920127795527154,
+        "children": [
+          {
+            "id": "7d945528bc8c5984",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -18,139 +40,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "99ae78d835324e03",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "555326760b75d645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/Брокеры сообщений и устройство Kafka.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Брокеры сообщений и устройство Kafka"
-            }
-          },
-          {
-            "id": "366515ab582d7187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/Какие брокеры сообщений знаешь и чем они отличаются.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Какие брокеры сообщений знаешь и чем они отличаются"
-            }
-          },
-          {
-            "id": "594573b5dd93329e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/Триггеры в БД что это такое, какой контекст использования.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Триггеры в БД что это такое, какой контекст использования"
-            }
-          },
-          {
-            "id": "109bcdc826835173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/Что такое идемпотентность.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Что такое идемпотентность"
-            }
-          },
-          {
-            "id": "44ab7043dfd3abd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/Что такое гарантированная доставка сообщений И какими механизмами ее можно обеспечить.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Что такое гарантированная доставка сообщений И какими механизмами ее можно обеспечить"
-            }
-          },
-          {
-            "id": "3934895fdcd085db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/Расскажите НТТР лучше применять глаголы и можно ли удалить что-нибудь в GET запросе.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Расскажите НТТР лучше применять глаголы и можно ли удалить что-нибудь в GET запросе"
-            }
-          },
-          {
-            "id": "603ea4983aa45220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/Как реализуется связь многие ко многим.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Как реализуется связь многие ко многим"
-            }
-          },
-          {
-            "id": "6b3c9467ddc4e33b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "〈 Business Analyst 〉/Какие плюсы и минусы микросервисов вы знаете.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Какие плюсы и минусы микросервисов вы знаете"
-            }
-          },
-          {
-            "id": "78c7e767d7c6fc5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/new quest.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "new quest"
-            }
-          }
-        ],
-        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -293,34 +182,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "78c7e767d7c6fc5a",
+  "active": "7d945528bc8c5984",
   "lastOpenFiles": [
-    "〈 Business Analyst 〉/Денормализация что это такое, в каких случаях применяется.md",
-    "Списки вопросов.md",
     "Business analytics.md",
-    "〈 Business Analyst 〉/Какие плюсы и минусы микросервисов вы знаете.md",
-    "〈 Business Analyst 〉/Как реализуется связь многие ко многим.md",
-    "〈 Business Analyst 〉/Расскажите НТТР лучше применять глаголы и можно ли удалить что-нибудь в GET запросе.md",
-    "БиоХангинг Алипов.md",
-    "System Design.md",
-    "〈 Business Analyst 〉/Что такое гарантированная доставка сообщений И какими механизмами ее можно обеспечить.md",
-    "〈 Business Analyst 〉/Что такое идемпотентность.md",
-    "〈 Business Analyst 〉/Триггеры в БД что это такое, какой контекст использования.md",
-    "〈 Business Analyst 〉/Какие брокеры сообщений знаешь и чем они отличаются.md",
-    "〈 Business Analyst 〉/Брокеры сообщений и устройство Kafka.md",
-    "〈 Business Analyst 〉/Базовое понимание сетевого взаимодействия и ИБ.md",
-    "〈 Business Analyst 〉/Какие виды требований вы знаете.md",
-    "〈 Business Analyst 〉/Что такое топик и раздел.md",
-    "уке.md",
     "〈 Business Analyst 〉/0 BA Оглавление.md",
-    "Kizomba 2.md",
-    "Kizomba 1.md",
-    "Гайд Уволнение.md",
-    "Импepия ИИ. Сны и кoшмaры.md",
-    "Daily/26.1 Jan/26.1 Jan.md",
-    "Daily/0 2026 year.md",
+    "〈 Business Analyst 〉/Как вы описываете REST API в OpenAPI YAML на основе бизнес-контекста.md",
+    "〈 Business Analyst 〉/Как вы строите ERD на основе требований.md",
+    "〈 Business Analyst 〉/Какие типы интеграций вы реализовывали (sync,async).md",
+    "〈 Business Analyst 〉/Как вы декомпозируете систему на сервисы.md",
+    "〈 Business Analyst 〉/Как вы встраиваете кеш (Redis) в архитектуру для снижения latency.md",
+    "〈 Business Analyst 〉/Чем ресурс отличается от endpoint при проектировании REST.md",
+    "〈 Business Analyst 〉/Как вы валидируете сообщения по схеме.md",
+    "〈 Business Analyst 〉/Какие механизмы (JWT, OAuth2) вы применяли.md",
+    "〈 Business Analyst 〉/Чем User Task отличается от Manual Task в BPMN-модели.md",
+    "〈 Business Analyst 〉/В каких частях HTTP-запроса допустимо передавать данные и почему.md",
+    "〈 Business Analyst 〉/Из каких частей состоит HTTP-запрос и ответ.md",
+    "BA табл.md",
+    "BA вопросики.md",
+    "уке.md",
     "Templates/new quest.md",
-    "Daily/26.12 Dec/26.12 Dec.md",
+    "〈 Business Analyst 〉/Денормализация что это такое, в каких случаях применяется.md",
+    "〈 Business Analyst 〉/Как реализуется связь многие ко многим.md",
+    "〈 Business Analyst 〉/Какие виды состояний НТТР бывают.md",
+    "Гайд Уволнение.md",
+    "〈 WebTechnologies 〉/Разница между протоколами TCP и UDP.md",
+    "〈 WebTechnologies 〉/0 WebTechnologies Оглавление.md",
+    "〈 Business Analyst 〉/Брокеры сообщений и устройство Kafka.md",
+    "〈 JavaScript 〉/〈 JS DOM 〉/Разница между классововым и прототипным наследованием.md",
+    "〈 Business Analyst 〉/Что такое топик и раздел.md",
     "Daily/26.9 Sep",
     "Daily/26.8 Aug",
     "Daily/26.7 Jul",

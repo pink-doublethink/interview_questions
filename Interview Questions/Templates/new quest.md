@@ -1,7 +1,7 @@
 ---
 tags:
-- Technology
-- Difficulty/Base
+- Technology/BA
+- Difficulty/Intermediate
 ---
 ----
 ## {{title}}

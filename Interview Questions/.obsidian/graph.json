@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "Technology/HTML",
@@ -81,6 +81,6 @@
   "repelStrength": 4.29263185446931,
   "linkStrength": 0.253718605218239,
   "linkDistance": 146,
-  "scale": 0.11660891579457573,
-  "close": false
+  "scale": 0.1634837056722081,
+  "close": true
 }
