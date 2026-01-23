@@ -6,7 +6,7 @@
       {
         "id": "8d978a30f70bd609",
         "type": "tabs",
-        "dimension": 75.07987220447284,
+        "dimension": 50.59952038369304,
         "children": [
           {
             "id": "2c09558534c72f80",
@@ -21,13 +21,28 @@
               "icon": "lucide-file",
               "title": "0 BA Оглавление"
             }
+          },
+          {
+            "id": "2b4447f920e4f0e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "〈 Business Analyst 〉/0 BA Оглавление.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "0 BA Оглавление"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eb5fba17bea9b76a",
         "type": "tabs",
-        "dimension": 24.920127795527154,
+        "dimension": 49.40047961630695,
         "children": [
           {
             "id": "7d945528bc8c5984",
@@ -71,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Как вы структурируете проектную документацию в Confluence или аналогах",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,34 +197,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d945528bc8c5984",
+  "active": "2b4447f920e4f0e3",
   "lastOpenFiles": [
+    "〈 Business Analyst 〉/Как вы структурируете проектную документацию в Confluence или аналогах.md",
+    "〈 Business Analyst 〉/Какие инструменты вы применяете для контрактного тестирования и автогенерации документации.md",
+    "BA вопросики.md",
     "Business analytics.md",
+    "〈 Business Analyst 〉/Какие типы диаграмм (ERD, Sequence, BPMN, C4) вы применяли и для каких задач.md",
+    "〈 Business Analyst 〉/Как вы используете Swagger UI и Postman в жизненном цикле API.md",
+    "Гайд Уволнение.md",
+    "Списки вопросов.md",
+    "BA табл.md",
+    "уке.md",
+    "Kizomba 2.md",
+    "Kizomba 1.md",
+    "System Design.md",
+    "БиоХангинг Алипов.md",
+    "〈 Business Analyst 〉/Как вы выделяете bounded context и агрегаты при проектировании доменной модели.md",
+    "〈 Business Analyst 〉/В каком сценарии вы выберете GraphQL вместо REST, и как решаете вопросы N+1 и кеширования.md",
+    "〈 Business Analyst 〉/Как вы документируете API по OpenAPI - структура, эндпоинты, схемы, ошибки.md",
     "〈 Business Analyst 〉/0 BA Оглавление.md",
+    "〈 Business Analyst 〉/В каком формате (User Story, Job Story,  SRS) вы фиксируете требования и какие обязательные поля используете.md",
+    "〈 Business Analyst 〉/В какой кросс-функциональной команде вы работали и как распределялись зоны ответственности.md",
+    "〈 Business Analyst 〉/Какие роли и навыки вы последовательно осваивали, переходя к позиции аналитика.md",
+    "〈 Business Analyst 〉/Как вы формулируете профессиональную мотивацию перехода, опираясь на рост сложности задач и ответственности.md",
     "〈 Business Analyst 〉/Как вы описываете REST API в OpenAPI YAML на основе бизнес-контекста.md",
     "〈 Business Analyst 〉/Как вы строите ERD на основе требований.md",
     "〈 Business Analyst 〉/Какие типы интеграций вы реализовывали (sync,async).md",
     "〈 Business Analyst 〉/Как вы декомпозируете систему на сервисы.md",
-    "〈 Business Analyst 〉/Как вы встраиваете кеш (Redis) в архитектуру для снижения latency.md",
-    "〈 Business Analyst 〉/Чем ресурс отличается от endpoint при проектировании REST.md",
-    "〈 Business Analyst 〉/Как вы валидируете сообщения по схеме.md",
-    "〈 Business Analyst 〉/Какие механизмы (JWT, OAuth2) вы применяли.md",
-    "〈 Business Analyst 〉/Чем User Task отличается от Manual Task в BPMN-модели.md",
-    "〈 Business Analyst 〉/В каких частях HTTP-запроса допустимо передавать данные и почему.md",
-    "〈 Business Analyst 〉/Из каких частей состоит HTTP-запрос и ответ.md",
-    "BA табл.md",
-    "BA вопросики.md",
-    "уке.md",
-    "Templates/new quest.md",
-    "〈 Business Analyst 〉/Денормализация что это такое, в каких случаях применяется.md",
-    "〈 Business Analyst 〉/Как реализуется связь многие ко многим.md",
-    "〈 Business Analyst 〉/Какие виды состояний НТТР бывают.md",
-    "Гайд Уволнение.md",
-    "〈 WebTechnologies 〉/Разница между протоколами TCP и UDP.md",
-    "〈 WebTechnologies 〉/0 WebTechnologies Оглавление.md",
-    "〈 Business Analyst 〉/Брокеры сообщений и устройство Kafka.md",
-    "〈 JavaScript 〉/〈 JS DOM 〉/Разница между классововым и прототипным наследованием.md",
-    "〈 Business Analyst 〉/Что такое топик и раздел.md",
     "Daily/26.9 Sep",
     "Daily/26.8 Aug",
     "Daily/26.7 Jul",
