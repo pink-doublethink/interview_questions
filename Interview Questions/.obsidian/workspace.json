@@ -6,7 +6,6 @@
       {
         "id": "8d978a30f70bd609",
         "type": "tabs",
-        "dimension": 50.59952038369304,
         "children": [
           {
             "id": "2c09558534c72f80",
@@ -23,38 +22,21 @@
             }
           },
           {
-            "id": "2b4447f920e4f0e3",
+            "id": "4d9fb7ad23e2698d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "〈 Business Analyst 〉/0 BA Оглавление.md",
+                "file": "〈 Business Analyst 〉/Как в рамках аналитической платформы вы спроектируете data mart для витрины продаж.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0 BA Оглавление"
+              "title": "Как в рамках аналитической платформы вы спроектируете data mart для витрины продаж"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "eb5fba17bea9b76a",
-        "type": "tabs",
-        "dimension": 49.40047961630695,
-        "children": [
-          {
-            "id": "7d945528bc8c5984",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241
+    "width": 200
   },
   "right": {
     "id": "8d7a621d901af4db",
@@ -197,34 +179,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b4447f920e4f0e3",
+  "active": "4d9fb7ad23e2698d",
   "lastOpenFiles": [
-    "〈 Business Analyst 〉/Как вы структурируете проектную документацию в Confluence или аналогах.md",
-    "〈 Business Analyst 〉/Какие инструменты вы применяете для контрактного тестирования и автогенерации документации.md",
-    "BA вопросики.md",
+    "〈 Business Analyst 〉/Как эти механизмы разделяются в REST-сервисе с OAuth2, OpenID Connect.md",
+    "〈 Business Analyst 〉/В каком случае вы примените table partitioning (range,list,hash) и как это влияет на планы выполнения запросов.md",
+    "〈 Business Analyst 〉/0 BA Оглавление.md",
     "Business analytics.md",
-    "〈 Business Analyst 〉/Какие типы диаграмм (ERD, Sequence, BPMN, C4) вы применяли и для каких задач.md",
-    "〈 Business Analyst 〉/Как вы используете Swagger UI и Postman в жизненном цикле API.md",
-    "Гайд Уволнение.md",
-    "Списки вопросов.md",
+    "〈 Business Analyst 〉/Как вы спроектируете репликацию БД для read-heavy API (master–replica), и какой тип согласованности выберете.md",
+    "〈 Business Analyst 〉/Какой shard key вы выберете для пользовательского сервиса с 10+ млн записей, и как это отразится на запросах и транзакциях.md",
+    "〈 Business Analyst 〉/Какие NFR вы формализуете для высоконагруженного API (latency, availability, throughput) и как они измеряются.md",
+    "〈 Business Analyst 〉/В каком сценарии высокой нагрузки вы предпочтёте горизонтальное масштабирование сервиса, и какие ограничения есть у вертикального.md",
+    "〈 Business Analyst 〉/Какие стратегии масштабирования вы применяли для backend-систем (scale-up, scale-out), и какими инфраструктурными средствами они реализованы.md",
     "BA табл.md",
-    "уке.md",
+    "〈 Business Analyst 〉/Как вы выбираете между CHAR и VARCHAR при проектировании схемы БД с учётом хранения, индексации и частоты обновлений.md",
+    "〈 Business Analyst 〉/В каком аналитическом сценарии вы выберете UNION ALL вместо UNION, и как это влияет на производительность и семантику результата.md",
+    "〈 Business Analyst 〉/Какие типы JOIN вы применяете при проектировании запросов к реляционной БД, и в каких сценариях (INNER, LEFT, RIGHT, FULL, CROSS).md",
+    "〈 Business Analyst 〉/Какие классы SQL-задач вы решали в продакшене (оконные функции, CTE, оптимизация планов выполнения), и в каких СУБД.md",
+    "〈 Business Analyst 〉/Как в рамках аналитической платформы вы спроектируете data mart для витрины продаж.md",
+    "BA вопросики.md",
+    "〈 Business Analyst 〉/Какой shard key вы выберете для пользовательского сервиса с 10 млн записей, и как это отразится на запросах и транзакциях.md",
+    "Гайд Уволнение.md",
+    "БиоХангинг Алипов.md",
+    "System Design.md",
     "Kizomba 2.md",
     "Kizomba 1.md",
-    "System Design.md",
-    "БиоХангинг Алипов.md",
-    "〈 Business Analyst 〉/Как вы выделяете bounded context и агрегаты при проектировании доменной модели.md",
-    "〈 Business Analyst 〉/В каком сценарии вы выберете GraphQL вместо REST, и как решаете вопросы N+1 и кеширования.md",
-    "〈 Business Analyst 〉/Как вы документируете API по OpenAPI - структура, эндпоинты, схемы, ошибки.md",
-    "〈 Business Analyst 〉/0 BA Оглавление.md",
-    "〈 Business Analyst 〉/В каком формате (User Story, Job Story,  SRS) вы фиксируете требования и какие обязательные поля используете.md",
-    "〈 Business Analyst 〉/В какой кросс-функциональной команде вы работали и как распределялись зоны ответственности.md",
-    "〈 Business Analyst 〉/Какие роли и навыки вы последовательно осваивали, переходя к позиции аналитика.md",
-    "〈 Business Analyst 〉/Как вы формулируете профессиональную мотивацию перехода, опираясь на рост сложности задач и ответственности.md",
-    "〈 Business Analyst 〉/Как вы описываете REST API в OpenAPI YAML на основе бизнес-контекста.md",
-    "〈 Business Analyst 〉/Как вы строите ERD на основе требований.md",
-    "〈 Business Analyst 〉/Какие типы интеграций вы реализовывали (sync,async).md",
-    "〈 Business Analyst 〉/Как вы декомпозируете систему на сервисы.md",
+    "уке.md",
+    "Списки вопросов.md",
+    "〈 Business Analyst 〉/Как вы структурируете проектную документацию в Confluence или аналогах.md",
+    "〈 Business Analyst 〉/Какие инструменты вы применяете для контрактного тестирования и автогенерации документации.md",
     "Daily/26.9 Sep",
     "Daily/26.8 Aug",
     "Daily/26.7 Jul",
