@@ -13,43 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "〈 Business Analyst 〉/0 BA Оглавление.md",
-                "mode": "source",
+                "file": "Business analytics.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0 BA Оглавление"
+              "title": "Business analytics"
             }
           },
           {
-            "id": "4d9fb7ad23e2698d",
+            "id": "b74212b86e4917ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "〈 Business Analyst 〉/Как вы выявляете требования у заказчика.md",
+                "file": "〈 Business Analyst 〉/Как вы выбираете архитектуру под масштаб и команду.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Как вы выявляете требования у заказчика"
+              "title": "Как вы выбираете архитектуру под масштаб и команду"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "98dba08df57793e8",
+        "id": "e7f97174d00abb3a",
         "type": "tabs",
         "children": [
           {
-            "id": "51268c5390140cad",
+            "id": "94f3f335d8ced706",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kizomba 1.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kizomba 1"
             }
           }
         ]
@@ -195,34 +199,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "51268c5390140cad",
+  "active": "94f3f335d8ced706",
   "lastOpenFiles": [
-    "BA вопросики.md",
-    "〈 Business Analyst 〉/Как вы выявляете требования у заказчика.md",
-    "Business analytics.md",
-    "〈 Business Analyst 〉/В каком контексте выбираете Use Case, а в каком User Story.md",
-    "уке.md",
-    "〈 Business Analyst 〉/Как вы проектируете систему на событиях и какие гарантии доставки используете.md",
-    "〈 Business Analyst 〉/В каком интеграционном сценарии SOAP предпочтительнее REST.md",
-    "〈 Business Analyst 〉/Как вы определяете REST как архитектурный стиль при проектировании API.md",
-    "〈 Business Analyst 〉/В каком сценарии вы примените gRPC вместо REST и почему.md",
-    "〈 Business Analyst 〉/С какими типами требований вы работали (business, functional, non-functional, constraints).md",
-    "〈 Business Analyst 〉/Как вы фиксируете требования к микросервисам (контракты, SLA, версии).md",
-    "〈 Business Analyst 〉/Как вы выбираете стек под конкретные нефункциональные требования и ограничения.md",
-    "〈 Business Analyst 〉/Какие технические и процессные вопросы вы задаёте команде перед принятием оффера.md",
-    "〈 Business Analyst 〉/С какими внешними системами интегрировался продукт (платежи, CRM, BI) и по каким протоколам.md",
-    "〈 Business Analyst 〉/Какие SDLC-модели вы использовали (Scrum, Kanban, Waterfall) и почему.md",
-    "〈 Business Analyst 〉/0 BA Оглавление.md",
-    "〈 Business Analyst 〉/Какой алгоритм диагностики и устранения ошибки 5XX вы примените (логи, метрики, трассировка).md",
-    "〈 Business Analyst 〉/Как в рамках аналитической платформы вы спроектируете data mart для витрины продаж.md",
-    "Списки вопросов.md",
-    "Гайд Уволнение.md",
-    "БиоХангинг Алипов.md",
-    "System Design.md",
-    "Kizomba 2.md",
+    "〈 Business Analyst 〉/Как вы выбираете архитектуру под масштаб и команду.md",
+    "〈 Business Analyst 〉/Какие методы считаются safe и как это влияет на кеширование.md",
     "Kizomba 1.md",
+    "Business analytics.md",
+    "〈 Business Analyst 〉/Как вы сопоставляете HTTP-методы CRUD-операциям.md",
+    "〈 Business Analyst 〉/Какой метод вы используете для upsert-операций и почему.md",
+    "〈 Business Analyst 〉/Как различаются семантика и ограничения этих методов.md",
+    "〈 Business Analyst 〉/В каком REST-сценарии вы возвращаете 201 Created.md",
+    "〈 Business Analyst 〉/Как вы классифицируете и используете группы 1xx–5xx в API.md",
+    "〈 Business Analyst 〉/В каком бизнес-сценарии вы выбираете каждый подход.md",
+    "〈 Business Analyst 〉/Почему JSON выбран основным форматом и какие альтернативы вы рассматривали.md",
+    "〈 Business Analyst 〉/Как вы реализуете асинхронное взаимодействие в REST.md",
+    "〈 Business Analyst 〉/Какие компромиссы вы учитываете при выборе REST.md",
+    "〈 Business Analyst 〉/Для каких типов систем REST является оптимальным выбором.md",
+    "〈 Business Analyst 〉/Как каждый принцип REST влияет на архитектуру сервиса.md",
+    "〈 Business Analyst 〉/0 BA Оглавление.md",
+    "BA вопросики.md",
+    "уке.md",
+    "System Design.md",
+    "БиоХангинг Алипов.md",
+    "Гайд Уволнение.md",
+    "Списки вопросов.md",
+    "〈 Business Analyst 〉/Как вы выявляете требования у заказчика.md",
+    "Kizomba 2.md",
     "BA табл.md",
-    "〈 Business Analyst 〉/Как эти механизмы разделяются в REST-сервисе с OAuth2, OpenID Connect.md",
+    "〈 Business Analyst 〉/В каком контексте выбираете Use Case, а в каком User Story.md",
     "Daily/26.9 Sep",
     "Daily/26.8 Aug",
     "Daily/26.7 Jul",
