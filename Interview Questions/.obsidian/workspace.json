@@ -6,6 +6,7 @@
       {
         "id": "8d978a30f70bd609",
         "type": "tabs",
+        "dimension": 50.15479876160991,
         "children": [
           {
             "id": "2c09558534c72f80",
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "〈 Business Analyst 〉/Как вы выбираете архитектуру под масштаб и команду.md",
+                "file": "〈 Business Analyst 〉/В каких корпоративных интеграциях SOAP остаётся актуален.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Как вы выбираете архитектуру под масштаб и команду"
+              "title": "В каких корпоративных интеграциях SOAP остаётся актуален"
             }
           }
         ],
@@ -41,6 +42,7 @@
       {
         "id": "e7f97174d00abb3a",
         "type": "tabs",
+        "dimension": 49.84520123839009,
         "children": [
           {
             "id": "94f3f335d8ced706",
@@ -201,10 +203,24 @@
   },
   "active": "94f3f335d8ced706",
   "lastOpenFiles": [
+    "〈 Business Analyst 〉/В каких корпоративных интеграциях SOAP остаётся актуален.md",
+    "Kizomba 1.md",
+    "〈 Business Analyst 〉/Какова роль ESB в интеграционной архитектуре.md",
+    "Business analytics.md",
+    "〈 Business Analyst 〉/Как эти стандарты используются в SOAP-интеграциях.md",
+    "〈 Business Analyst 〉/Почему JSON предпочтительнее XML в веб-API.md",
+    "〈 Business Analyst 〉/Как вы моделируете коллекции объектов в JSON-схемах.md",
+    "〈 Business Analyst 〉/Какие типы данных JSON вы используете в API-контрактах.md",
+    "〈 Business Analyst 〉/Как вы определяете степень соответствия API REST-принципам.md",
+    "〈 Business Analyst 〉/Какую роль API Gateway играет в распределённой системе.md",
+    "〈 Business Analyst 〉/Чем SOA концептуально отличается от микросервисной архитектуры.md",
+    "〈 Business Analyst 〉/Какие trade-offs между микросервисами и монолитом вы закладываете.md",
+    "〈 Business Analyst 〉/Какие организационные и технические предпосылки вы учитываете.md",
+    "〈 Business Analyst 〉/В каком проекте монолит архитектурно оправдан.md",
+    "〈 Business Analyst 〉/0 BA Оглавление.md",
+    "BA вопросики.md",
     "〈 Business Analyst 〉/Как вы выбираете архитектуру под масштаб и команду.md",
     "〈 Business Analyst 〉/Какие методы считаются safe и как это влияет на кеширование.md",
-    "Kizomba 1.md",
-    "Business analytics.md",
     "〈 Business Analyst 〉/Как вы сопоставляете HTTP-методы CRUD-операциям.md",
     "〈 Business Analyst 〉/Какой метод вы используете для upsert-операций и почему.md",
     "〈 Business Analyst 〉/Как различаются семантика и ограничения этих методов.md",
@@ -213,20 +229,6 @@
     "〈 Business Analyst 〉/В каком бизнес-сценарии вы выбираете каждый подход.md",
     "〈 Business Analyst 〉/Почему JSON выбран основным форматом и какие альтернативы вы рассматривали.md",
     "〈 Business Analyst 〉/Как вы реализуете асинхронное взаимодействие в REST.md",
-    "〈 Business Analyst 〉/Какие компромиссы вы учитываете при выборе REST.md",
-    "〈 Business Analyst 〉/Для каких типов систем REST является оптимальным выбором.md",
-    "〈 Business Analyst 〉/Как каждый принцип REST влияет на архитектуру сервиса.md",
-    "〈 Business Analyst 〉/0 BA Оглавление.md",
-    "BA вопросики.md",
-    "уке.md",
-    "System Design.md",
-    "БиоХангинг Алипов.md",
-    "Гайд Уволнение.md",
-    "Списки вопросов.md",
-    "〈 Business Analyst 〉/Как вы выявляете требования у заказчика.md",
-    "Kizomba 2.md",
-    "BA табл.md",
-    "〈 Business Analyst 〉/В каком контексте выбираете Use Case, а в каком User Story.md",
     "Daily/26.9 Sep",
     "Daily/26.8 Aug",
     "Daily/26.7 Jul",
