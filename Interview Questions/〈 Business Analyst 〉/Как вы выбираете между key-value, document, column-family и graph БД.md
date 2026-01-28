@@ -1,0 +1,12 @@
+---
+tags:
+- Technology/BA
+- Difficulty/Intermediate
+---
+----
+## Как вы выбираете между key-value, document, column-family и graph БД
+----
+> [!FAQ]- Ответ
+> - My approach to selecting the appropriate NoSQL database architecture begins by conducting a thorough analysis of the specific functional requirements regarding data structure and the non-functional requirements concerning scalability, latency, and consistency. If the business use case demands high-speed lookups with low latency—such as caching user sessions, managing real-time shopping carts, or handling simple configuration settings—I prioritize key-value stores like Redis or Amazon DynamoDB. In these scenarios, the data model is generally opaque to the database, meaning the application handles the schema, and the priority is purely on fetching distinct items via a unique identifier with maximum efficiency.
+> - However, when the data requires a flexible schema that can evolve alongside agile development cycles, such as in content management systems or product catalogs with varying attributes, I advocate for document databases like MongoDB. These allow us to store semi-structured data in JSON-like formats, which aligns well with object-oriented programming code but still permits complex querying. Conversely, if the requirement involves massive write throughput and scalability for analytical queries—such as storing time-series data from IoT devices or analyzing event logs—I would select a column-family store like Apache Cassandra. This architecture excels at compressing and retrieving specific columns of data efficiently across distributed clusters, making it ideal for big data applications that require high availability.
+> - Finally, I reserve graph databases for scenarios where the primary business value is derived from the relationships between data points rather than the data entities themselves. In use cases like fraud detection, social networking features, or recommendation engines, the cost of performing multiple recursive JOINs in a relational or standard NoSQL database becomes prohibitive. By using a graph database like Neo4j, we can model data as nodes and edges, allowing for highly efficient traversal of complex networks. Ultimately, my recommendation rests on mapping these technical capabilities directly to the stakeholder's access patterns and their tolerance for the trade-offs defined in the CAP theorem.

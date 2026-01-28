@@ -6,7 +6,6 @@
       {
         "id": "8d978a30f70bd609",
         "type": "tabs",
-        "dimension": 50.15479876160991,
         "children": [
           {
             "id": "2c09558534c72f80",
@@ -23,42 +22,21 @@
             }
           },
           {
-            "id": "b74212b86e4917ff",
+            "id": "b4c84b1e32998e31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "〈 Business Analyst 〉/В каких корпоративных интеграциях SOAP остаётся актуален.md",
+                "file": "〈 Business Analyst 〉/Как вы реализуете scale-out с несколькими инстансами сервиса.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "В каких корпоративных интеграциях SOAP остаётся актуален"
+              "title": "Как вы реализуете scale-out с несколькими инстансами сервиса"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "e7f97174d00abb3a",
-        "type": "tabs",
-        "dimension": 49.84520123839009,
-        "children": [
-          {
-            "id": "94f3f335d8ced706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kizomba 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Kizomba 1"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -201,34 +179,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "94f3f335d8ced706",
+  "active": "b4c84b1e32998e31",
   "lastOpenFiles": [
-    "〈 Business Analyst 〉/В каких корпоративных интеграциях SOAP остаётся актуален.md",
     "Kizomba 1.md",
-    "〈 Business Analyst 〉/Какова роль ESB в интеграционной архитектуре.md",
+    "〈 Business Analyst 〉/Как вы реализуете scale-out с несколькими инстансами сервиса.md",
     "Business analytics.md",
+    "〈 Business Analyst 〉/В каком сценарии вы выберете синхронную или асинхронную репликацию.md",
+    "〈 Business Analyst 〉/Какие ресурсы потребляют индексы и когда вы отказываетесь от них.md",
+    "〈 Business Analyst 〉/По каким метрикам вы принимаете решение об индексации.md",
+    "〈 Business Analyst 〉/Как вы учитываете CAP при проектировании распределённой системы.md",
+    "〈 Business Analyst 〉/Как вы обеспечиваете ACID-свойства транзакций.md",
+    "〈 Business Analyst 〉/Как работает индекс и как он влияет на SELECT, INSERT.md",
+    "〈 Business Analyst 〉/Как вы применяете нормализацию и где сознательно её нарушаете.md",
+    "〈 Business Analyst 〉/В каком контексте вы выбираете PostgreSQL, MySQL, MongoDB, SQLite или Redis.md",
+    "〈 Business Analyst 〉/Почему в таблице допускается только один первичный ключ.md",
+    "〈 Business Analyst 〉/Как вы обеспечиваете ссылочную целостность.md",
+    "〈 Business Analyst 〉/Какие примитивные и составные типы данных вы использовали в разных СУБД.md",
+    "〈 Business Analyst 〉/Как вы выбираете между key-value, document, column-family и graph БД.md",
+    "〈 Business Analyst 〉/0 BA Оглавление.md",
+    "BA вопросики.md",
+    "BA табл.md",
+    "Гайд Уволнение.md",
+    "Списки вопросов.md",
+    "уке.md",
+    "〈 Business Analyst 〉/В каких корпоративных интеграциях SOAP остаётся актуален.md",
+    "〈 Business Analyst 〉/Какова роль ESB в интеграционной архитектуре.md",
     "〈 Business Analyst 〉/Как эти стандарты используются в SOAP-интеграциях.md",
     "〈 Business Analyst 〉/Почему JSON предпочтительнее XML в веб-API.md",
     "〈 Business Analyst 〉/Как вы моделируете коллекции объектов в JSON-схемах.md",
-    "〈 Business Analyst 〉/Какие типы данных JSON вы используете в API-контрактах.md",
-    "〈 Business Analyst 〉/Как вы определяете степень соответствия API REST-принципам.md",
-    "〈 Business Analyst 〉/Какую роль API Gateway играет в распределённой системе.md",
-    "〈 Business Analyst 〉/Чем SOA концептуально отличается от микросервисной архитектуры.md",
-    "〈 Business Analyst 〉/Какие trade-offs между микросервисами и монолитом вы закладываете.md",
-    "〈 Business Analyst 〉/Какие организационные и технические предпосылки вы учитываете.md",
-    "〈 Business Analyst 〉/В каком проекте монолит архитектурно оправдан.md",
-    "〈 Business Analyst 〉/0 BA Оглавление.md",
-    "BA вопросики.md",
-    "〈 Business Analyst 〉/Как вы выбираете архитектуру под масштаб и команду.md",
-    "〈 Business Analyst 〉/Какие методы считаются safe и как это влияет на кеширование.md",
-    "〈 Business Analyst 〉/Как вы сопоставляете HTTP-методы CRUD-операциям.md",
-    "〈 Business Analyst 〉/Какой метод вы используете для upsert-операций и почему.md",
-    "〈 Business Analyst 〉/Как различаются семантика и ограничения этих методов.md",
-    "〈 Business Analyst 〉/В каком REST-сценарии вы возвращаете 201 Created.md",
-    "〈 Business Analyst 〉/Как вы классифицируете и используете группы 1xx–5xx в API.md",
-    "〈 Business Analyst 〉/В каком бизнес-сценарии вы выбираете каждый подход.md",
-    "〈 Business Analyst 〉/Почему JSON выбран основным форматом и какие альтернативы вы рассматривали.md",
-    "〈 Business Analyst 〉/Как вы реализуете асинхронное взаимодействие в REST.md",
     "Daily/26.9 Sep",
     "Daily/26.8 Aug",
     "Daily/26.7 Jul",
