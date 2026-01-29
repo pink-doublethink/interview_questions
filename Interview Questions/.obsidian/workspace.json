@@ -27,16 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "〈 Business Analyst 〉/Как вы реализуете scale-out с несколькими инстансами сервиса.md",
+                "file": "〈 Business Analyst 〉/Какие HTTP-методы предоставляет протокол и какие операции они реализуют.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Как вы реализуете scale-out с несколькими инстансами сервиса"
+              "title": "Какие HTTP-методы предоставляет протокол и какие операции они реализуют"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "87b2cb5a355da1dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c22df50d8509d7da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kizomba 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kizomba 1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,31 +202,31 @@
   "active": "b4c84b1e32998e31",
   "lastOpenFiles": [
     "Kizomba 1.md",
-    "〈 Business Analyst 〉/Как вы реализуете scale-out с несколькими инстансами сервиса.md",
+    "〈 Business Analyst 〉/Какие HTTP-методы предоставляет протокол и какие операции они реализуют.md",
     "Business analytics.md",
+    "〈 Business Analyst 〉/Как вы используете URL и URI при проектировании ресурсов API.md",
+    "〈 Business Analyst 〉/Как вы делаете POST идемпотентным.md",
+    "〈 Business Analyst 〉/Какие методы идемпотентны и как это используется в API-дизайне.md",
+    "〈 Business Analyst 〉/Почему GET не подходит для передачи чувствительных данных.md",
+    "〈 Business Analyst 〉/Какие протоколы и форматы вы использовали.md",
+    "〈 Business Analyst 〉/Как вы пишете JOIN, GROUP BY, HAVING на основе заданной ERD.md",
+    "〈 Business Analyst 〉/Как вы выбираете между ERD, CJM и Impact Map для конкретной задачи.md",
+    "〈 Business Analyst 〉/Как вы разрешаете конфликт в рамках agile-процесса.md",
+    "〈 Business Analyst 〉/Как вы переводите бизнес-требования в системные и технические.md",
+    "〈 Business Analyst 〉/Как вы формализуете функциональные и нефункциональные требования e-commerce системы.md",
+    "〈 Business Analyst 〉/Как вы проектируете шардирование и маршрутизацию запросов.md",
+    "〈 Business Analyst 〉/Какой тип load balancer вы используете и по каким алгоритмам.md",
+    "〈 Business Analyst 〉/0 BA Оглавление.md",
+    "BA вопросики.md",
+    "Списки вопросов.md",
+    "BA табл.md",
+    "〈 Business Analyst 〉/Как вы реализуете scale-out с несколькими инстансами сервиса.md",
     "〈 Business Analyst 〉/В каком сценарии вы выберете синхронную или асинхронную репликацию.md",
     "〈 Business Analyst 〉/Какие ресурсы потребляют индексы и когда вы отказываетесь от них.md",
     "〈 Business Analyst 〉/По каким метрикам вы принимаете решение об индексации.md",
     "〈 Business Analyst 〉/Как вы учитываете CAP при проектировании распределённой системы.md",
     "〈 Business Analyst 〉/Как вы обеспечиваете ACID-свойства транзакций.md",
     "〈 Business Analyst 〉/Как работает индекс и как он влияет на SELECT, INSERT.md",
-    "〈 Business Analyst 〉/Как вы применяете нормализацию и где сознательно её нарушаете.md",
-    "〈 Business Analyst 〉/В каком контексте вы выбираете PostgreSQL, MySQL, MongoDB, SQLite или Redis.md",
-    "〈 Business Analyst 〉/Почему в таблице допускается только один первичный ключ.md",
-    "〈 Business Analyst 〉/Как вы обеспечиваете ссылочную целостность.md",
-    "〈 Business Analyst 〉/Какие примитивные и составные типы данных вы использовали в разных СУБД.md",
-    "〈 Business Analyst 〉/Как вы выбираете между key-value, document, column-family и graph БД.md",
-    "〈 Business Analyst 〉/0 BA Оглавление.md",
-    "BA вопросики.md",
-    "BA табл.md",
-    "Гайд Уволнение.md",
-    "Списки вопросов.md",
-    "уке.md",
-    "〈 Business Analyst 〉/В каких корпоративных интеграциях SOAP остаётся актуален.md",
-    "〈 Business Analyst 〉/Какова роль ESB в интеграционной архитектуре.md",
-    "〈 Business Analyst 〉/Как эти стандарты используются в SOAP-интеграциях.md",
-    "〈 Business Analyst 〉/Почему JSON предпочтительнее XML в веб-API.md",
-    "〈 Business Analyst 〉/Как вы моделируете коллекции объектов в JSON-схемах.md",
     "Daily/26.9 Sep",
     "Daily/26.8 Aug",
     "Daily/26.7 Jul",
